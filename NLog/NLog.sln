@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog", "NLog\NLog.csproj", "{372B19E3-0C1B-4E78-AF44-0D74C05E9D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372B19E3-0C1B-4E78-AF44-0D74C05E9D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372B19E3-0C1B-4E78-AF44-0D74C05E9D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372B19E3-0C1B-4E78-AF44-0D74C05E9D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372B19E3-0C1B-4E78-AF44-0D74C05E9D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDC213D-EFC7-474E-8C6A-1A1F1A6AD379}
+	EndGlobalSection
+EndGlobal
