@@ -1,12 +1,23 @@
 ﻿using System;
 
 namespace Snake_Ladder
+
 {
-    internal class Program
+
+
+
+    public class Snake_Ladder
     {
-        static void Main(string[] args)
+        public static void main Start()
         {
-            Console.WriteLine("Hello World!");
+            int Begin = 0;
+            Console.WriteLine("Starting position is: " + Begin);
+
         }
+
     }
 }
+
+    
+    
+
